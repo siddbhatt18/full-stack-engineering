@@ -1,4 +1,4 @@
-# 🚀 Full Stack Web Development: 26-Week Project-Based Learning Plan
+# Full Stack Web Development: 26-Week Project-Based Learning Plan
 
 ## 📋 Overview & Philosophy
 
